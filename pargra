@@ -1,0 +1,27 @@
+     1         IW      FLAG DI SCRIT.VIDEO                            
+     1         IC      Flag di matrice Q completa                     
+   164         LM2     DIM. MEMORIA CIRCOLARE STELLE MASSICCE  328       
+    82         LBLK    N PASSI PER MEM. STELLE PICCOLE    164            
+   4.0         MSEP    Valore separ. tra stelle massicce e piccola m. 
+   8.0         MSN2    Limite inferiore SNII                          
+   3.0         BMIN    Limite inf. binarie per SNI                    
+  16.0         BMAX    Limite sup. binarie per SNI                    
+  0.12         ALF     Frazione di binarie                            
+   2.0         GAMMA   Param. distrib. binarie                        
+  13.2         TTOT    Tempo totale integrazione (Gyr)                
+1.D-4          RTOL                                                   
+1.D-9          ATOL                                                   
+3.25D1         RGAL
+8.00D0         RRING
+8.00D0         RSOL
+1.00D0         DELR
+8.37D2         TCOLLSOL
+2.05D0         ESC
+9.00D-3         EPSK
+3.77D-1         EPSMU
+0.60D0         EPSH
+1.35D-1         EPS1H TOTALE
+0.10D0         EPSA
+2.50D-8         EPS1A TOTALE
+
+
